@@ -1,0 +1,6 @@
+[repositories]
+maven: https://repo1.maven.org/maven2/
+scmspain-libs-archive: https://artifactory.mpi-internal.com/artifactory/scmspain-libs-archive/
+libs-release-local: https://artifactory.mpi-internal.com/artifactory/libs-release-local/
+maven-plugings: https://repo.maven.apache.org/maven2/
+bintray-sbt-plugin-releases: https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/, [organization]/[module]/(scala_[scalaVersion]/)(sbt_[sbtVersion]/)[revision]/[type]s/[artifact](-[classifier]).[ext]

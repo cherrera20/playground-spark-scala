@@ -1,0 +1,5 @@
+.bsp
+spark-warehouse
+/target/
+/project/target/
+/project/project/target/
